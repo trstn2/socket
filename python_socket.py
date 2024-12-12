@@ -1,3 +1,7 @@
+# Tristan
+# December 12th 2024
+# Checks every port based on your IP
+
 import socket
 import threading
 
